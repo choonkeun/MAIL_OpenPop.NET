@@ -1,0 +1,26 @@
+D:\C# Development\OpenPop\OpenPop.NET 2.0.5\source\OpenPOP\bin\Debug\OpenPop.xml
+D:\C# Development\OpenPop\OpenPop.NET 2.0.5\source\OpenPOP\bin\Debug\OpenPop.dll
+D:\C# Development\OpenPop\OpenPop.NET 2.0.5\source\OpenPOP\bin\Debug\OpenPop.pdb
+D:\C# Development\OpenPop\OpenPop.NET 2.0.5\source\OpenPOP\obj\Debug\OpenPop.dll
+D:\C# Development\OpenPop\OpenPop.NET 2.0.5\source\OpenPOP\obj\Debug\OpenPop.pdb
+D:\C# Development\OpenPop.NET\OpenPop.NET 2.0.5\source\OpenPOP\bin\Debug\OpenPop.xml
+D:\C# Development\OpenPop.NET\OpenPop.NET 2.0.5\source\OpenPOP\bin\Debug\OpenPop.dll
+D:\C# Development\OpenPop.NET\OpenPop.NET 2.0.5\source\OpenPOP\bin\Debug\OpenPop.pdb
+D:\C# Development\OpenPop.NET\OpenPop.NET 2.0.5\source\OpenPOP\obj\Debug\OpenPop.dll
+D:\C# Development\OpenPop.NET\OpenPop.NET 2.0.5\source\OpenPOP\obj\Debug\OpenPop.pdb
+D:\C# Development\OpenPop.NET 2.0.5\OpenPOP\bin\Debug\OpenPop.xml
+D:\C# Development\OpenPop.NET 2.0.5\OpenPOP\bin\Debug\OpenPop.dll
+D:\C# Development\OpenPop.NET 2.0.5\OpenPOP\bin\Debug\OpenPop.pdb
+D:\C# Development\OpenPop.NET 2.0.5\OpenPOP\obj\Debug\OpenPop.csprojResolveAssemblyReference.cache
+D:\C# Development\OpenPop.NET 2.0.5\OpenPOP\obj\Debug\OpenPop.dll
+D:\C# Development\OpenPop.NET 2.0.5\OpenPOP\obj\Debug\OpenPop.pdb
+D:\C# Development\MCP_OpenPop\OpenPOP\bin\Debug\OpenPop.xml
+D:\C# Development\MCP_OpenPop\OpenPOP\bin\Debug\OpenPop.dll
+D:\C# Development\MCP_OpenPop\OpenPOP\bin\Debug\OpenPop.pdb
+D:\C# Development\MCP_OpenPop\OpenPOP\obj\Debug\OpenPop.dll
+D:\C# Development\MCP_OpenPop\OpenPOP\obj\Debug\OpenPop.pdb
+R:\OpenPOP\bin\Debug\OpenPop.xml
+R:\OpenPOP\bin\Debug\OpenPop.dll
+R:\OpenPOP\bin\Debug\OpenPop.pdb
+R:\OpenPOP\obj\Debug\OpenPop.dll
+R:\OpenPOP\obj\Debug\OpenPop.pdb
