@@ -4,8 +4,8 @@ Auto Download eMails from External Mail Service using OpenPop.NET
 ### Sample C# Mail Code
 
 --Build Message
-MailMessage msg = new MailMessage();
-msg.From = new MailAddress("example@gmail.com", "Example");
+MailMessage msg = new MailMessage(); 
+msg.From = new MailAddress("example@gmail.com", "Example"); 
 msg.To.Add("friend_a@example.com");
 msg.To.Add(new MailAddress("friend_b@example.com", "Friend B"));
 msg.Priority = MailPriority.High;
