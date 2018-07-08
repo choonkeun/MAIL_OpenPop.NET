@@ -73,8 +73,6 @@ namespace EmailServices
                             continue;
                         }
  
-                        tempFilePath = CreateTempFile(TEMP_FOLDER, fileAttachment.FileContentBase64);
- 
                         if (attachments != null && attachments.Length > 0)
                         {
                             foreach (FileAttachment fileAttachment in attachments)
